@@ -26,7 +26,7 @@ InstaLens is an advanced object detection mobile application that leverages the 
 <table>
    <tr>
     <td>
-      <img src="https://github.com/MuhammadMuazzain/Object-Detection-Mobile/assets/img1" width="400" />
+      ![Demo Image](assets/img1.jpeg)
     </td>
     <td>
       <img src="https://github.com/MuhammadMuazzain/Object-Detection-Mobile/assets/img2" width="400" />
