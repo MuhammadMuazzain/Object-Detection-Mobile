@@ -26,26 +26,26 @@ InstaLens is an advanced object detection mobile application that leverages the 
 <table>
    <tr>
     <td>
-      ![Demo Image](assets/img1.jpeg)
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/f27ec107-8d54-4dbc-88d1-c6ce73d987ef" width="400" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazzain/Object-Detection-Mobile/assets/img2" width="400" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/MuhammadMuazzain/Object-Detection-Mobile/assets/img3" width="400" />
-    </td>
-    <td>
-      <img src="https://github.com/MuhammadMuazzain/Object-Detection-Mobile/assets/img4" width="400" />
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/ee0dc990-e1e5-46d2-8ef2-a2f9fab0d23a" width="400" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/MuhammadMuazzain/collectible-identifier/assets/15179100/20853da5-3440-4bfc-a440-edc1c1667fbe" width="400" />
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/1b8697f7-3875-48e0-b470-95ee73a3a132" width="400" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazzain/collectible-identifier/assets/15179100/e1888079-4db2-4bfc-aa6a-050ebdaab961" width="400" />
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/b713674d-ef0e-4729-b53d-8b1a6456609c" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/20853da5-3440-4bfc-a440-edc1c1667fbe" width="400" />
+    </td>
+    <td>
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/e1888079-4db2-4bfc-aa6a-050ebdaab961" width="400" />
     </td>
   </tr>
      <tr>
@@ -58,10 +58,10 @@ InstaLens is an advanced object detection mobile application that leverages the 
   </tr>
    <tr>
     <td>
-      <img src="https://github.com/MuhammadMuazzain/instaLens/assets/15179100/e3169c0c-82eb-4423-b6dd-a8079607a675" width="400" />
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/e3169c0c-82eb-4423-b6dd-a8079607a675" width="400" />
     </td>
     <td>
-      <img src="https://github.com/MuhammadMuazzain/instaLens/assets/15179100/334e7970-f90a-4c0e-97b2-0177f2c0f29d" width="400" />
+      <img src="https://github.com/ranitraj/instaLens/assets/15179100/334e7970-f90a-4c0e-97b2-0177f2c0f29d" width="400" />
     </td>
   </tr>
 </table>
